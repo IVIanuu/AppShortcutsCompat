@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppShortcutsCompatSample</string>
+    <string name="dummy_short_label">Dummy short label</string>
+    <string name="dummy_long_label">Dummy long label</string>
+</resources>
